@@ -1,1 +1,1 @@
-_strong_
+*[HTML]: HyperText Markup Language
